@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE student at the University of Mumbai  
+- 🎓 CSE student at the Gujarat Technological University 
 - 🌱 Currently learning DSA & Full-Stack Development  
 - 🤝 Exploring Open Source contributions  
 - ⚡ Curious about AI, cloud & cybersecurity  
