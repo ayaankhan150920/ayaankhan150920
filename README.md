@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayaan-khan150920&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayaankhan150920&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan-khan150920&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaankhan150920&theme=tokyonight" />
 
 </div>
 
@@ -66,7 +66,7 @@
 
 ## 🤝 Connect With Me
 
-- 🌐 GitHub: https://github.com/ayaan-khan150920  
+- 🌐 GitHub: https://github.com/ayaankhan150920  
 
 ---
 
